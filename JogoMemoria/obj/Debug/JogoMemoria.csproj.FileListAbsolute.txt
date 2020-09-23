@@ -1,0 +1,70 @@
+C:\Users\cruzi\source\repos\Praticando\JogoMemoria\obj\Debug\JogoMemoria.csprojAssemblyReference.cache
+C:\Users\cruzi\source\repos\Praticando\JogoMemoria\obj\Debug\JogoMemoria.Properties.Resources.resources
+C:\Users\cruzi\source\repos\Praticando\JogoMemoria\obj\Debug\JogoMemoria.csproj.GenerateResource.cache
+C:\Users\cruzi\source\repos\Praticando\JogoMemoria\obj\Debug\JogoMemoria.csproj.CoreCompileInputs.cache
+C:\Users\cruzi\source\repos\Praticando\JogoMemoria\bin\Debug\JogoMemoria.exe.config
+C:\Users\cruzi\source\repos\Praticando\JogoMemoria\bin\Debug\JogoMemoria.exe
+C:\Users\cruzi\source\repos\Praticando\JogoMemoria\bin\Debug\JogoMemoria.pdb
+C:\Users\cruzi\source\repos\Praticando\JogoMemoria\obj\Debug\JogoMemoria.exe
+C:\Users\cruzi\source\repos\Praticando\JogoMemoria\obj\Debug\JogoMemoria.pdb
+C:\Users\cruzi\source\repos\Praticando\JogoMemoria\obj\Debug\JogoMemoria.Jogo.resources
+C:\Users\cruzi\Documents\Unifenas\4º\LPII\Praticando\JogoMemoria\bin\Debug\JogoMemoria.exe.config
+C:\Users\cruzi\Documents\Unifenas\4º\LPII\Praticando\JogoMemoria\bin\Debug\JogoMemoria.exe
+C:\Users\cruzi\Documents\Unifenas\4º\LPII\Praticando\JogoMemoria\bin\Debug\JogoMemoria.pdb
+C:\Users\cruzi\Documents\Unifenas\4º\LPII\Praticando\JogoMemoria\obj\Debug\JogoMemoria.csprojAssemblyReference.cache
+C:\Users\cruzi\Documents\Unifenas\4º\LPII\Praticando\JogoMemoria\obj\Debug\JogoMemoria.Properties.Resources.resources
+C:\Users\cruzi\Documents\Unifenas\4º\LPII\Praticando\JogoMemoria\obj\Debug\JogoMemoria.csproj.GenerateResource.cache
+C:\Users\cruzi\Documents\Unifenas\4º\LPII\Praticando\JogoMemoria\obj\Debug\JogoMemoria.csproj.CoreCompileInputs.cache
+C:\Users\cruzi\Documents\Unifenas\4º\LPII\Praticando\JogoMemoria\obj\Debug\JogoMemoria.exe
+C:\Users\cruzi\Documents\Unifenas\4º\LPII\Praticando\JogoMemoria\obj\Debug\JogoMemoria.pdb
+C:\Users\cruzi\Documents\Unifenas\4º\LPII\Praticando\JogoMemoria\obj\Debug\JogoMemoria.FrmHome.resources
+C:\Users\cruzi\Documents\Unifenas\4º\LPII\Praticando\JogoMemoria\obj\Debug\JogoMemoria.FrmJogo.resources
+C:\Users\cruzi\Documents\Unifenas\4º\LPII\Praticando\JogoMemoria\obj\Debug\JogoMemoria.FrmJogoMedio.resources
+C:\Users\cruzi\Documents\Unifenas\4º\LPII\Praticando\JogoMemoria\obj\Debug\JogoMemoria.FrmJogoDificil.resources
+C:\Users\cruzi\Documents\Unifenas\4º\LPII\Praticando\JogoMemoria\obj\Debug\JogoMemoria.FrmCadastro.resources
+C:\Users\cruzi\Documents\Unifenas\4º\LPII\Praticando\JogoMemoria\obj\Debug\JogoMemoria.FrmRanking.resources
+C:\Users\ivo.netto\Desktop\Praticando\JogoMemoria\bin\Debug\JogoMemoria.exe.config
+C:\Users\ivo.netto\Desktop\Praticando\JogoMemoria\bin\Debug\JogoMemoria.exe
+C:\Users\ivo.netto\Desktop\Praticando\JogoMemoria\bin\Debug\JogoMemoria.pdb
+C:\Users\ivo.netto\Desktop\Praticando\JogoMemoria\obj\Debug\JogoMemoria.csprojAssemblyReference.cache
+C:\Users\ivo.netto\Desktop\Praticando\JogoMemoria\obj\Debug\JogoMemoria.FrmCadastro.resources
+C:\Users\ivo.netto\Desktop\Praticando\JogoMemoria\obj\Debug\JogoMemoria.FrmHome.resources
+C:\Users\ivo.netto\Desktop\Praticando\JogoMemoria\obj\Debug\JogoMemoria.FrmJogo.resources
+C:\Users\ivo.netto\Desktop\Praticando\JogoMemoria\obj\Debug\JogoMemoria.FrmJogoDificil.resources
+C:\Users\ivo.netto\Desktop\Praticando\JogoMemoria\obj\Debug\JogoMemoria.FrmJogoMedio.resources
+C:\Users\ivo.netto\Desktop\Praticando\JogoMemoria\obj\Debug\JogoMemoria.FrmRanking.resources
+C:\Users\ivo.netto\Desktop\Praticando\JogoMemoria\obj\Debug\JogoMemoria.Properties.Resources.resources
+C:\Users\ivo.netto\Desktop\Praticando\JogoMemoria\obj\Debug\JogoMemoria.csproj.GenerateResource.cache
+C:\Users\ivo.netto\Desktop\Praticando\JogoMemoria\obj\Debug\JogoMemoria.csproj.CoreCompileInputs.cache
+C:\Users\ivo.netto\Desktop\Praticando\JogoMemoria\obj\Debug\JogoMemoria.exe
+C:\Users\ivo.netto\Desktop\Praticando\JogoMemoria\obj\Debug\JogoMemoria.pdb
+C:\Users\ivo.netto\Desktop\Praticando - Testes\JogoMemoria\obj\Debug\JogoMemoria.csprojAssemblyReference.cache
+C:\Users\ivo.netto\Desktop\Praticando - Testes\JogoMemoria\obj\Debug\JogoMemoria.FrmCadastro.resources
+C:\Users\ivo.netto\Desktop\Praticando - Testes\JogoMemoria\obj\Debug\JogoMemoria.FrmHome.resources
+C:\Users\ivo.netto\Desktop\Praticando - Testes\JogoMemoria\obj\Debug\JogoMemoria.FrmJogo.resources
+C:\Users\ivo.netto\Desktop\Praticando - Testes\JogoMemoria\obj\Debug\JogoMemoria.FrmJogoDificil.resources
+C:\Users\ivo.netto\Desktop\Praticando - Testes\JogoMemoria\obj\Debug\JogoMemoria.FrmJogoMedio.resources
+C:\Users\ivo.netto\Desktop\Praticando - Testes\JogoMemoria\obj\Debug\JogoMemoria.FrmRanking.resources
+C:\Users\ivo.netto\Desktop\Praticando - Testes\JogoMemoria\obj\Debug\JogoMemoria.Properties.Resources.resources
+C:\Users\ivo.netto\Desktop\Praticando - Testes\JogoMemoria\obj\Debug\JogoMemoria.csproj.GenerateResource.cache
+C:\Users\ivo.netto\Desktop\Praticando - Testes\JogoMemoria\obj\Debug\JogoMemoria.csproj.CoreCompileInputs.cache
+C:\Users\ivo.netto\Desktop\Praticando - Testes\JogoMemoria\obj\Debug\JogoMemoria.exe
+C:\Users\ivo.netto\Desktop\Praticando - Testes\JogoMemoria\obj\Debug\JogoMemoria.pdb
+C:\Users\ivo.netto\Desktop\Praticando - Testes\JogoMemoria\bin\Debug\JogoMemoria.exe.config
+C:\Users\ivo.netto\Desktop\Praticando - Testes\JogoMemoria\bin\Debug\JogoMemoria.exe
+C:\Users\ivo.netto\Desktop\Praticando - Testes\JogoMemoria\bin\Debug\JogoMemoria.pdb
+C:\Users\cruzi\Desktop\Praticando - Testes\JogoMemoria\bin\Debug\JogoMemoria.exe.config
+C:\Users\cruzi\Desktop\Praticando - Testes\JogoMemoria\bin\Debug\JogoMemoria.exe
+C:\Users\cruzi\Desktop\Praticando - Testes\JogoMemoria\bin\Debug\JogoMemoria.pdb
+C:\Users\cruzi\Desktop\Praticando - Testes\JogoMemoria\obj\Debug\JogoMemoria.csprojAssemblyReference.cache
+C:\Users\cruzi\Desktop\Praticando - Testes\JogoMemoria\obj\Debug\JogoMemoria.FrmCadastro.resources
+C:\Users\cruzi\Desktop\Praticando - Testes\JogoMemoria\obj\Debug\JogoMemoria.FrmHome.resources
+C:\Users\cruzi\Desktop\Praticando - Testes\JogoMemoria\obj\Debug\JogoMemoria.FrmJogo.resources
+C:\Users\cruzi\Desktop\Praticando - Testes\JogoMemoria\obj\Debug\JogoMemoria.FrmJogoDificil.resources
+C:\Users\cruzi\Desktop\Praticando - Testes\JogoMemoria\obj\Debug\JogoMemoria.FrmJogoMedio.resources
+C:\Users\cruzi\Desktop\Praticando - Testes\JogoMemoria\obj\Debug\JogoMemoria.FrmRanking.resources
+C:\Users\cruzi\Desktop\Praticando - Testes\JogoMemoria\obj\Debug\JogoMemoria.Properties.Resources.resources
+C:\Users\cruzi\Desktop\Praticando - Testes\JogoMemoria\obj\Debug\JogoMemoria.csproj.GenerateResource.cache
+C:\Users\cruzi\Desktop\Praticando - Testes\JogoMemoria\obj\Debug\JogoMemoria.csproj.CoreCompileInputs.cache
+C:\Users\cruzi\Desktop\Praticando - Testes\JogoMemoria\obj\Debug\JogoMemoria.exe
+C:\Users\cruzi\Desktop\Praticando - Testes\JogoMemoria\obj\Debug\JogoMemoria.pdb
